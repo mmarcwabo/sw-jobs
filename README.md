@@ -14,6 +14,11 @@
 
   ## Frameworks
   * Express
+
+  ## Running process
+  * git clone https://github.com/mmarcwabo/sw-jobs-server
+  * Run this command in the client root folder  "npm update upgrade"
+  * Run "node api/index.js" 
  
    ## Demo link
   * Link coming soon
