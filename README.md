@@ -14,10 +14,8 @@
 
   ## Frameworks
   * Express
-  * Dans le fichier .htaccess : dossier contenant le projet (après RewriteBase)
-  * scripts/js/main.js - appAbsolutePath  = la racine de votre application
-
-  ## Demo link
+ 
+   ## Demo link
   * Link coming soon
 
    ## Acknowlegment
